@@ -1,0 +1,30 @@
+*{margin=0;}
+p{
+    display:block;
+    background-color: bisque;
+    width:40%;
+    padding:30px;
+}
+#first{
+    color: brown;
+}
+.head{
+    color: darkred;
+    text-align: center;
+    font-size: larger;
+}
+.new ,p{
+    background-color: aqua;
+    
+}
+div{
+    display:block;
+    border-left: 40%;
+    width: 40%;
+    text-align: center;
+  
+}
+img{
+   image:center;
+   padding-left: 20px;;
+}
